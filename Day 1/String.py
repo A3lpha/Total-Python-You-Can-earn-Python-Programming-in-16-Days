@@ -1,0 +1,7 @@
+#print("Hello"  + " " + 'alpha')
+#print("This is one line\nand this is another")
+#print("\tThis is the third line")
+#print('This isn\'t a numbers')
+#print(' This sign \\ is a backslash')
+#print("line 1\nline 2\nline 3")
+print("fname adnan\nsname jacfar\nlast mohamed")
