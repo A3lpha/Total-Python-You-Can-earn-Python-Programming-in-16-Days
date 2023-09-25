@@ -16,3 +16,8 @@ result
 
   
 Convert the value of num2 to a float and print the resulting data type.
+
+# #3 Data Type Conversions Practice
+Add the values of num1 and num2.
+
+Do not modify the value of variables already declared, but apply the necessary conversions within the print() function.
